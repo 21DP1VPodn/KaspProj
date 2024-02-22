@@ -3,7 +3,7 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-color: #d94730;
+  background-color: #801504;
   margin: 0;
 }
 
@@ -96,7 +96,7 @@ html, body {
 
 .header {
   padding: 5px;
-  background: #d94730;
+  background: #801504;
   color: goldenrod;
   font-size: 18px;
 }
@@ -132,7 +132,7 @@ html, body {
 
 .footer {
   padding: 20px;
-  background: #d94730;
+  background: #801504;
   color: goldenrod;
   font-size: 18px;
 }

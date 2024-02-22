@@ -6,7 +6,7 @@ body {
 
 .header {
     padding: 5px;
-    background: #d94730;
+    background: #801504;
     color: goldenrod;
     font-size: 18px;
     width: 99.5%;
@@ -36,80 +36,28 @@ body {
     left: 95%;
 }
   
-.footer_druid {
-    padding: 5px;
-    background: #d94730;
+.footer_down {
+    background: #801504;
     color: goldenrod;
     position: absolute;
     display: flex;
     font-size: 18px;
-    top: 110%;
-    width: 99.5%;
+    padding-top: 30px;
+    background-clip: content-box;
+    width: 100%;
+    top: 90.9%;
 }
 
-.footer_wizard {
-    padding: 5px;
-    background: #d94730;
-    color: goldenrod;
-    position: absolute;
-    display: flex;
-    font-size: 18px;
-    top: 130%;
-    width: 99.5%;
-}
 
 .footer {
-    padding: 5px;
-    background: #d94730;
+    background: #801504;
     color: goldenrod;
     position: absolute;
     display: flex;
     font-size: 18px;
-    top: 94%;
-    width: 99.5%;
-}
-.footer_banshee {
-    padding: 5px;
-    background: #d94730;
-    color: goldenrod;
-    position: absolute;
-    display: flex;
-    font-size: 18px;
-    top: 170%;
-    width: 99.5%;
-}
-
-.footer_background {
-    padding: 5px;
-    background: #d94730;
-    color: goldenrod;
-    position: absolute;
-    display: flex;
-    font-size: 18px;
-    top: 270%;
-    width: 99.5%;
-}
-
-.footer_planes {
-    padding: 5px;
-    background: #d94730;
-    color: goldenrod;
-    position: absolute;
-    display: flex;
-    font-size: 18px;
-    top: 300%;
-    width: 99.5%;
-}
-
-.footer_prey {
-    padding: 5px;
-    background: #d94730;
-    color: goldenrod;
-    position: absolute;
-    display: flex;
-    font-size: 18px;
-    top: 250%;
-    width: 99.5%;
+    padding-top: 30px;
+    background-clip: content-box;
+    width: 100%;
 }
   
 .mailimage {

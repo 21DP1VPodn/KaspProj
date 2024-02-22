@@ -6,7 +6,7 @@ body {
 
 .header {
     padding: 5px;
-    background: #d94730;
+    background: #801504;
     color: goldenrod;
     font-size: 18px;
     width: 99.5%;
@@ -38,7 +38,7 @@ body {
 
 .footer {
     padding: 5px;
-    background: #d94730;
+    background: #801504;
     color: goldenrod;
     position: absolute;
     display: flex;

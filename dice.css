@@ -178,7 +178,7 @@ button {
 
 .header {
   padding: 5px;
-  background: #d94730;
+  background: #801504;
   color: goldenrod;
   font-size: 18px;
 }
@@ -191,7 +191,7 @@ button {
 
 .footer {
   padding: 20px;
-  background: #d94730;
+  background: #801504;
   color: goldenrod;
   font-size: 18px;
   position: absolute;
@@ -208,4 +208,9 @@ button {
 
 .mailtext {
   display: inline;
+}
+
+.img_d4{
+  height: 100px;
+  width: 100px;
 }
